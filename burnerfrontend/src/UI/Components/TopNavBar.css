@@ -1,0 +1,22 @@
+.topNavBar {
+  height: 100vh;
+  background-color: #040403;
+  z-index: 1;
+}
+
+.topNavBar__container {
+  display: flex;
+  width: 100vw;
+  height: 5rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+}
+
+.newColor {
+  color: white;
+}
+
+.oke {
+  color: white;
+}

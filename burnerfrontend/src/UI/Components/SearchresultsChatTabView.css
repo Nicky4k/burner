@@ -1,0 +1,53 @@
+.searchresultsChatTabView {
+  display: flex;
+  width: 96%;
+  height: 5.5rem;
+  z-index: 400;
+  color: #040403;
+  margin: 0 4%;
+}
+
+.chat__Container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  border-bottom: 2px solid #f7f7f7;
+}
+
+.hover__containerEffect {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 1rem 0;
+  padding: 0.25rem 0.5rem;
+  border-radius: 1rem;
+  background-color: white;
+}
+
+.hover__containerEffect:hover {
+  cursor: pointer;
+  background-color: #fdf2c3;
+}
+
+.chatTab__image {
+  height: 3.5rem;
+  width: 3.5rem;
+  object-fit: contain;
+  border-radius: 100%;
+  background-color: #ffffff;
+}
+
+.chatTab__body {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 1rem;
+}
+
+.chatTab__body > h4 {
+  color: #7d7d7d;
+}

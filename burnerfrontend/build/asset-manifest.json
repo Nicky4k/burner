@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e03485ae.css",
+    "main.js": "/static/js/main.fff9d458.js",
+    "static/media/burnerLogo.png": "/static/media/burnerLogo.de56c05ecfec49d733ad.png",
+    "static/media/user-profile-avatar.png": "/static/media/user-profile-avatar.90949f515514c2307953.png",
+    "static/media/svg1.svg": "/static/media/svg1.706fc1e8d7eccff98065ce6d2f728319.svg",
+    "index.html": "/index.html",
+    "main.e03485ae.css.map": "/static/css/main.e03485ae.css.map",
+    "main.fff9d458.js.map": "/static/js/main.fff9d458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e03485ae.css",
+    "static/js/main.fff9d458.js"
+  ]
+}

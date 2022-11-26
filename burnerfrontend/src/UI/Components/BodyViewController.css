@@ -1,0 +1,32 @@
+.bodyViewController {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  top: 5rem;
+  z-index: 100;
+  color: #040403;
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+  /* padding: 1.5rem; */
+}
+
+.bodyView_hrLine {
+  position: relative;
+  top: 0.5rem;
+  height: 4px;
+  width: 20%;
+  background-color: rgb(227, 227, 227);
+  border-radius: 2rem;
+}
+
+.bodyContainer__box {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-start;
+  margin-top: 1rem;
+}
