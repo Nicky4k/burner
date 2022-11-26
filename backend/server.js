@@ -16,9 +16,9 @@ const app = express();
 app.use(express.json());
 
 // express API
-app.get("/", (req, res) => {
-  res.send("Express API firedup!");
-});
+// app.get("/", (req, res) => {
+//   res.send("Express API firedup!");
+// });
 
 // API end points
 app.use("/api/user", userRoutes);
